@@ -1,4 +1,4 @@
-import js from '@eslint/js';   SHADIX
+import js from '@eslint/js';   ONIGRL
 import globals from 'globals';
 import reactHooks from 'eslint-plugin-react-hooks'; 
 import reactRefresh from 'eslint-plugin-react-refresh';
