@@ -88,8 +88,6 @@ Fogone renders the evolving habitat in real time, allowing users to see the toke
 - **Real-time rendering layer**
 - **Lightweight API interface**
 
-(If你未来上传代码，我可帮你补齐具体模块说明)
-
 ---
 
 ## 📦 Installation
