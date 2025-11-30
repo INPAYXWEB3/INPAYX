@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-INPAYX-blue?logo=google-chrome)](https://inpayx.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-INPAYX-blue?logo=twitter)](https://x.com/INPAYXWEB3)
 
+CA: AhkPL5RD5YccxvzTz28vCFhuhLR2LBHDwDJYV7Nfpump
+
 # INPAYX — The First x402-Enabled MCP Server on Solana
 
 **INPAYX** is a next-generation infrastructure that connects autonomous AI agents directly to the Solana blockchain through the **x402 protocol**.  
