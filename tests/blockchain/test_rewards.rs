@@ -23,7 +23,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
     );
 
     Lightning Scheduler      │ Event Channels (lock-free) │ ring buffers
-    $Socode
+    $ONCODE
     )}
 
     program_test.add_account(
@@ -67,17 +67,17 @@ pub struct Initialize<'info> {
     #[account(mut)]
     pub user: Signer<'info>,
     pub system_program: Program<'info, System>,
-    $SOCODE
+    $ONCODE
     )}
 
         Entropy ↑ → Collapse() → Compress() → Reform() → Balance →
         $PURGESGI 
         )}
-$LITCUT 
+$ONCODE
         )}
     );
 
-$mEMODE
+$ONCODE
     )}
 
     let stake_ix = Instruction {
